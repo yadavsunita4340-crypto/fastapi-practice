@@ -2,7 +2,7 @@
 
 This is a project I'm building while learning FastAPI and backend development.
 
-I'm using it to understand how APIs work by actually creating and testing different routes instead of just learning the concepts theoretically.
+I'm using it to understand how APIs work by actually creating and testing different routes.
 
 ## What I'm learning
 
